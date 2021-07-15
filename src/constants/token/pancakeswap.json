@@ -19,12 +19,12 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
     {
-      "name": "Bakery Token",
-      "symbol": "BAKE",
-      "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+      "name": "Uranium 92",
+      "symbol": "U92",
+      "address": "0x670De9f45561a2D02f283248F65cbd26EAd861C8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+      "logoURI": "https://i.imgur.com/k8seVHb.png"
     },
     {
       "name": "BUSD Token",
